@@ -14,7 +14,7 @@ include 'include/header.php';
 
 
     </div>
-    <div class="main-heading">fanta</div>
+    <div class="main-heading">for work bracnh fanta</div>
 </div>
 
 <div class="about-us">
