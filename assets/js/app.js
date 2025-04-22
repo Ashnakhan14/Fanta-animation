@@ -58,21 +58,19 @@ var tl = gsap.timeline({
     top:"50%",
   },'sec2');
   
-  
   tl2.to("#orange-cut", {
-    top:"210%",
-    left:"39%",
+    top:"206%",
+    left:"36%",
     width:"22%",
     rotate:"520deg",
   },'sec2');
   
   
   tl2.to("#fanta", {
-    top:"258%",
-    left:"50%",
+    top:"249%",
+    left:"47%",
     width:"29%",
   },'sec2');
-  
   
   
 
